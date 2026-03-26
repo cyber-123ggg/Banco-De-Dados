@@ -2,6 +2,6 @@
 $servidor = "localhost";
 $usuario = "root";
 $senha = "";
-$dbname = "basidb";
+$dbname = "db_cafe";
 
 $conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
